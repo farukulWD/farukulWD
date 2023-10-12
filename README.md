@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Farukul Islam
 #### I am Web Developer
-![I am Web Developer](https://i.ibb.co/LYcSv6c/myPic.jpg)
+![I am Web Developer](https://i.ibb.co/Xjbnwpq/linkdinbanner.png)
 
 Hello, I'm Faruk,
 I am a seasoned MERN stack developer with over a year of professional experience in crafting responsive websites. I specialize in building websites for a diverse range of purposes, including blogs, businesses, personal portfolios, and various industries. My expertise lies in creating lightning-fast web solutions that cater to your unique needs.

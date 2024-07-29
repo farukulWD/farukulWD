@@ -6,20 +6,15 @@ Hello, I'm Faruk,
 I am a seasoned MERN stack developer with over a year of professional experience in crafting responsive websites. I specialize in building websites for a diverse range of purposes, including blogs, businesses, personal portfolios, and various industries. My expertise lies in creating lightning-fast web solutions that cater to your unique needs.
 
 SKILLS:
-• Expertise: JavaScript | ES6 | MongoDB | React.js | Tailwind | React-router
-• Comfortable: Rest Api | Express.js | Bootstrap || Jest || Redux
-• Familiar: Node.js | JWT | Tanstack query | stripe | Axios | Next.js | jest
-• Tools: Experienced in using tools Git, VS code, Chrome developer tools, Netlify, Vercel, firebase
+• Expertise: JavaScript | Typscript | Next Js| Mongoose | MongoDB | React.js | Tailwind | React-router | Redux | RTK Query | Sass | Express | Antd Design | mantine UI.
+• Comfortable: Rest Api | Prisma | Bootstrap | Jest | Cypress | Tanstack query | JWT | Axios | Next UI.
+• Familiar: Node.js  | stripe | jest | Multer | Cloudinary.
+• Tools: Experienced in using tools Git, VS code, Chrome developer tools, Netlify, Vercel, firebase.
 
 Let's connect and embark on the journey of bringing your dream website to life!
 Email: farukgb1999@gmail.com
 Whatsapp: +8801831290006
 
-- 🔭 I’m currently working on a Team project thats name is electropoll 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Web design and development 
-- 💬 Ask me about Web Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farukulWD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/farukulwd//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/farukulWD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/farukulwd//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/farukulWD)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fanciful-gumdrop-97ea87.netlify.app/)  

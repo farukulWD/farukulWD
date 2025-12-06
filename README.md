@@ -9,7 +9,7 @@ SKILLS:
 • Familiar: Node.js  | stripe | jest | Multer | Cloudinary.
 • Tools: Experienced in using tools Git, VS code, Chrome developer tools, Netlify, Vercel, firebase.
 
-Let's connect and embark on the journey of bringing your dream website to life!
+Let's connect
 Email: farukgb1999@gmail.com
 Whatsapp: +8801831290006
 

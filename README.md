@@ -3,8 +3,7 @@ I am a Full-stack developer with 3 years of professional experience in crafting 
 
 SKILLS:
 • Expertise: JavaScript| Go Lang | Typscript | Next Js| Mongoose | MongoDB | React.js | Tailwind | React-router | Redux | RTK Query | Sass | Express | Antd Design | mantine UI.
-• Comfortable: Rest Api | Prisma | Bootstrap | Jest | Cypress | Tanstack query | JWT | Axios | Next UI.
-• Familiar: Node.js | Stripe | Jest | Multer | Cloudinary.
+• Comfortable: Rest Api | GraphQL | Prisma | Jest | Cypress | Tanstack query | JWT | Axios | Next UI | Node.js | Stripe | Jest | Multer | Cloudinary.
 • Tools: Experienced in using tools such as Git, VS Code, Chrome developer tools, Netlify, Vercel, firebase.
 
 Let's connect

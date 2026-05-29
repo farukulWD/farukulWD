@@ -6,6 +6,7 @@ SKILLS:
 • Comfortable: GraphQL | Prisma | Jest | Cypress | Tanstack query | JWT | Axios | Next UI | Node.js | Stripe | Jest | Multer | Cloudinary.
 • Tools: Experienced in using tools such as Git, VS Code, Chrome developer tools, Netlify, Vercel, firebase.
 
+
 Let's connect
 Email: farukgb1999@gmail.com
 WhatsApp: +8801831290006

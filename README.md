@@ -4,18 +4,10 @@ I am a Full-stack developer with 3 years of professional experience in building 
 SKILLS:
 • Expertise: JavaScript| Go Lang | Typscript | Next Js | Rest Api | Mongoose | MongoDB | React.js | Tailwind | Redux | RTK Query | Express | Antd Design | mantine UI | Agentic development.
 • Comfortable: GraphQL | Prisma | Jest | Cypress | Tanstack query | JWT | Axios | Next UI | Node.js | Stripe | Jest | Multer | Cloudinary.
-• Tools: Experienced in using tools such as Git, VS Code, Chrome developer tools, Netlify, Vercel, firebase.
+• Tools: Experienced in using tools such as Git, VS Code, Chrome developer tools, Netlify, Vercel, Firebase.
 
 
 Let's connect
 Email: farukgb1999@gmail.com
 WhatsApp: +8801831290006
-
-
-
-
-
-![](https://streak-stats.demolab.com/?user=farukulwd&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api?username=farukulwd&theme=dark&hide_border=false&include_all_commits=true&count_private=true) </br>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=farukulwd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

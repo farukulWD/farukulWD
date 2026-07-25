@@ -105,7 +105,7 @@ LLM integration · Agentic workflows · Prompt & token-cost optimization · Clau
 
 ## 📫 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-farukgb1999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farukgb1999@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B880%201831%20290006-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801831290006)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-farukulwd-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/farukulwd/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-farukul--wd.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://farukul-wd.vercel.app)
+<img src="https://cdn.simpleicons.org/gmail/EA4335" height="16" alt="Email" />&nbsp; [farukgb1999@gmail.com](mailto:farukgb1999@gmail.com) &nbsp;·&nbsp;
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="16" alt="WhatsApp" />&nbsp; [+880 1831 290006](https://wa.me/8801831290006) &nbsp;·&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="16" alt="LinkedIn" />&nbsp; [linkedin.com/in/farukulwd](https://www.linkedin.com/in/farukulwd/) &nbsp;·&nbsp;
+<img src="https://cdn.simpleicons.org/vercel/_/ffffff" height="16" alt="Portfolio" />&nbsp; [farukul-wd.vercel.app](https://farukul-wd.vercel.app)

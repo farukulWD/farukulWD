@@ -67,8 +67,8 @@ LLM integration · Agentic workflows · Prompt & token-cost optimization · Clau
 
 ## 💼 Experience
 
-### Frontend Developer — Gain Solutions Ltd.
-*Jul 2025 – Present · HRM, support-desk, CRM, and AI-driven products*
+### Full-Stack Software Engineer — Gain Solutions Ltd.
+*Jul 2025 – Present · HRM, support desk, CRM, and AI-driven products*
 
 - Built and maintained scalable web applications with **Next.js, Redux Toolkit, and Apollo Client**, cutting page load times by **40%** through code splitting, caching, and render optimization.
 - Contributed to backend services in **Express.js and GraphQL** (Apollo Server, graphql-ws) with real-time subscriptions, backed by **PostgreSQL and Sequelize**.
